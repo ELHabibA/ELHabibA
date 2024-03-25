@@ -7,7 +7,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 <br><be>
-- :technologist: Junior Software Developer based in `Sweden` 🇸🇪.
+- :technologist: Junior Software Developer based in `Sweden`.
 - :student: Graduated from [JENSEN yrkeshögskola](https://www.jensenyh.se/vara-yh-utbildningar/systemutvecklare-inriktning-sakerhet), `Malmö`.
 - :computer: Deeply passionate about `Software Engineering`.
 - :nerd_face: Committed to continuous learning and mastering new technologies.
