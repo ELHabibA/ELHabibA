@@ -3,26 +3,27 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;FullStack+Developer;Always+learning+new+things"></a>
 </p>
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+# 👤 About Me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><be>
 
 - :technologist: Junior Software Developer based in `Sweden`.
-- :student: Graduate of JENSEN yrkeshögskola, Malmö. [JENSEN yrkeshögskola](https://www.jensenyh.se/vara-yh-utbildningar/systemutvecklare-inriktning-sakerhet), Malmö.
+- :student: Graduate from [JENSEN yrkeshögskola](https://www.jensenyh.se/vara-yh-utbildningar/systemutvecklare-inriktning-sakerhet), `Malmö`.
 - :computer: Deeply passionate about `Software Engineering`.
 - :nerd_face: Committed to continuous learning and mastering new technologies.
 <br>
 
+# 🛠️ Languages and Tools
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)
 
-<p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
-</p>
+
