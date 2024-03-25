@@ -12,6 +12,13 @@
 - :computer: Deeply passionate about `Software Engineering`.
 - :nerd_face: Committed to continuous learning and mastering new technologies.
 <br>
+## 🗣 Speaking
+
+![English](https://img.shields.io/badge/-English-000000?style=for-the-badge&logo=united-states&logoColor=white)
+![Svenska](https://img.shields.io/badge/-Svenska-0000FF?style=for-the-badge&logo=sweden&logoColor=yellow)
+![Berber](https://img.shields.io/badge/-Berber-008000?style=for-the-badge&logo=amazigh&logoColor=white)
+![Arabic](https://img.shields.io/badge/-Arabic-007A3D?style=for-the-badge&logo=saudi-arabia&logoColor=white)
+![French](https://img.shields.io/badge/-French-002395?style=for-the-badge&logo=france&logoColor=white)
 
 ## 🛠️ Languages and Tools
 
