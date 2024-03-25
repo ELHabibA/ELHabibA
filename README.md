@@ -7,17 +7,17 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 <br><be>
-- :technologist: Junior Software Developer based in `Sweden`.
-- :student: Graduate from [JENSEN yrkeshögskola](https://www.jensenyh.se/vara-yh-utbildningar/systemutvecklare-inriktning-sakerhet), `Malmö`.
+- :technologist: Junior Software Developer based in `Sweden` 🇸🇪.
+- :student: Graduated from [JENSEN yrkeshögskola](https://www.jensenyh.se/vara-yh-utbildningar/systemutvecklare-inriktning-sakerhet), `Malmö`.
 - :computer: Deeply passionate about `Software Engineering`.
 - :nerd_face: Committed to continuous learning and mastering new technologies.
 <br>
 ## 🗣 Speaking
 
-![English](https://img.shields.io/badge/-English-000000?style=for-the-badge&logo=united-states&logoColor=white)
-![Svenska](https://img.shields.io/badge/-Svenska-0000FF?style=for-the-badge&logo=sweden&logoColor=yellow)
-![Berber](https://img.shields.io/badge/-Berber-008000?style=for-the-badge&logo=amazigh&logoColor=white)
-![Arabic](https://img.shields.io/badge/-Arabic-007A3D?style=for-the-badge&logo=saudi-arabia&logoColor=white)
+![English](https://img.shields.io/badge/-English-000000?style=for-the-badge&logo=united-kingdom&logoColor=white)
+![Svenska](https://img.shields.io/badge/-Svenska-0052A5?style=for-the-badge&logo=sweden&logoColor=yellow)
+![Berber (Moroccan)](https://img.shields.io/badge/-Berber%20(Moroccan)-C8102E?style=for-the-badge&logo=morocco&logoColor=green)
+![Arabic](https://img.shields.io/badge/-Arabic-007A3D?style=for-the-badge&logo=united-arab-emirates&logoColor=white)
 ![French](https://img.shields.io/badge/-French-002395?style=for-the-badge&logo=france&logoColor=white)
 
 ## 🛠️ Languages and Tools
