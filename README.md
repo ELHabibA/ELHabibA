@@ -30,7 +30,7 @@
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=sql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-00A560?style=plastic&logo=nosql&logoColor=white)
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-007ACC?style=plastic&logo=testing-library&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-007ACC?style=plastic&logo=checkmark&logoColor=white)
 
 ## 📬 Contact Me
 
