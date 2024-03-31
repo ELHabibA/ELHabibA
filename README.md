@@ -5,10 +5,10 @@
 	
 ## 👤 About Me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 190px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 <br><be>
 - :technologist: Junior Software Developer based in `Malmö`, `Sweden`.
-- :student: Graduated from [JENSEN yrkeshögskola](https://www.jensenyh.se/vara-yh-utbildningar/systemutvecklare-inriktning-sakerhet), a Swedish [HVE](https://www.yrkeshogskolan.se/in-english/) institution.
+- :student: Graduate of [JENSEN yrkeshögskola](https://www.jensenyh.se/vara-yh-utbildningar/systemutvecklare-inriktning-sakerhet), a Swedish [Higher Vocational Education](https://www.yrkeshogskolan.se/in-english/) institution.
 - :computer: Deeply passionate about `Software Engineering`.
 - :nerd_face: Committed to continuous learning and mastering new technologies.
 - :bulb: Innovative problem-solver who thrives on challenges.
