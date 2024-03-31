@@ -1,16 +1,19 @@
 <h1 align="center">Hi, I'm Habib <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=80&lines=Software+Developer;Full-stack+Developer;.NET+Developer;Committed+to+continuous+learning"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=80&lines=Software+Developer;Full-stack+Developer;.NET+Developer;Committed+to+continuous+learning;Innovative+problem-solver;Tech+enthusiast+and+collaborator;Adaptable+and+results-oriented+developer"></a>
 </p>
 	
 ## 👤 About Me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 180px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 190px></picture>
 <br><be>
-- :technologist: Junior Software Developer based in `Sweden`.
-- :student: Graduated from [JENSEN yrkeshögskola](https://www.jensenyh.se/vara-yh-utbildningar/systemutvecklare-inriktning-sakerhet), `Malmö`.
+- :technologist: Junior Software Developer based in `Malmö`, `Sweden`.
+- :student: Graduated from [JENSEN yrkeshögskola](https://www.jensenyh.se/vara-yh-utbildningar/systemutvecklare-inriktning-sakerhet), an institution offering [Higher Vocational Education (HVE)](https://www.yrkeshogskolan.se/in-english/) in `Sweden`.
 - :computer: Deeply passionate about `Software Engineering`.
 - :nerd_face: Committed to continuous learning and mastering new technologies.
+- :bulb: Innovative problem-solver who thrives on challenges.
+- :handshake: Enthusiastic collaborator who values teamwork and communication.
+- :flexible_guy: Adaptable and results-oriented, focusing on delivering high-quality software products.
 <br>
 
 ## 🛠️ Languages and Tools
@@ -29,6 +32,7 @@
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=sql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-00A560?style=plastic&logo=nosql&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-007ACC?style=plastic&logo=testing-library&logoColor=white)
 
 ## 📬 Contact Me
 
