@@ -8,7 +8,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 190px></picture>
 <br><be>
 - :technologist: Junior Software Developer based in `Malmö`, `Sweden`.
-- :student: Graduated from [JENSEN yrkeshögskola](https://www.jensenyh.se/vara-yh-utbildningar/systemutvecklare-inriktning-sakerhet), a Swedish [Higher Vocational Education](https://www.yrkeshogskolan.se/in-english/) institution.
+- :student: Graduated from [JENSEN yrkeshögskola](https://www.jensenyh.se/vara-yh-utbildningar/systemutvecklare-inriktning-sakerhet), a Swedish [HVE](https://www.yrkeshogskolan.se/in-english/) institution.
 - :computer: Deeply passionate about `Software Engineering`.
 - :nerd_face: Committed to continuous learning and mastering new technologies.
 - :bulb: Innovative problem-solver who thrives on challenges.
@@ -25,7 +25,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
