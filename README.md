@@ -36,6 +36,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elhabib-asmama/)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:elhabibasmama@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA.svg?style=flat-square&logo=discord&logoColor=white)](discordapp.com/users/855579805771759617)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=flat-square&logo=telegram&logoColor=white)](https://t.me/elhabib_asmama)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/EAsmama)
